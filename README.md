@@ -18,4 +18,3 @@ To get started, clone the repository and install the required libraries using:
 ```bash
 git clone https://github.com/Tanmoy023/Data-Analysis.git
 cd Data-Analysis
-pip install -r requirements.txt
